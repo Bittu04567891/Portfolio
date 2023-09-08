@@ -51,8 +51,8 @@
     color: #59b256;
 }
 .i-img{
-    width: 100%;
-    height: 120%;
+    width: 80%;
+    height: 110%;
     object-fit:cover;
     position: absolute;
     
