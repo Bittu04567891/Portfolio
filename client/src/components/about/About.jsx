@@ -14,22 +14,29 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          Tech Enthusiast and Innovator | NIT Jamshedpur Student | Google Data
+          Analytics Certified
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          Bittu Thakur is a technology enthusiast based in Jharkhand. He is
+          currently a Technical Team Member at Team Revanta, where he
+          collaborates on various technical projects. Bittu also gained valuable
+          experience as a Summer Trainee at NTPC Limited and contributed to
+          event management and content creation for OJASS - NIT Jamshedpur. He
+          is pursuing a Bachelor of Technology in Mechanical Engineering at NIT
+          Jamshedpur and holds a Google Data Analytics certification from
+          Coursera.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">Rank 6 in District ICSE</h4>
+            <h4 className="a-award-title">
+              <strong>Date of Accomplishment:</strong> May 8, 2019
+            </h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              In May 2019, I secured the 6th position in the district in the
+              ICSE examinations, showcasing my dedication to academic excellence
+              and commitment to personal growth
             </p>
           </div>
         </div>
