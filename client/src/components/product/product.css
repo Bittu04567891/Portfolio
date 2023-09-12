@@ -33,7 +33,7 @@
     transform: translateY(-100%);
   }
   
-  @media screen and (max-width: 720px) {
+  @media screen and (max-width: 740px) {
     .p {
       width: 40%;
       height: 10vh;
